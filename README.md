@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manjunathdp
 - 👀 I’m interested in web development
-<!--- 🌱 I’m currently learning BE in computer science  at KLE Technical university.--->
+- 🌱 I’m currently learning BE in computer science  at KLE Technical university.
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me manjunathdtc3@gmail.com
 
