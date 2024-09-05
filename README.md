@@ -42,7 +42,7 @@ I'm a passionate **Web Developer** with strong expertise in **Java**. I complete
 
 ---
 
-### 📊 **Top Languages**
+<!--### 📊 **Top Languages**
 
 
 <a href="https://github.com/manjunathdp" align="left">
@@ -50,7 +50,7 @@ I'm a passionate **Web Developer** with strong expertise in **Java**. I complete
 </a>
 
 ---
-
+-->
 ### 📂 **Projects**
 
 - **YOLOv5-Based Bollworm Classification and Count Prediction Model**  
