@@ -60,9 +60,6 @@ I'm a passionate **Web Developer** with strong expertise in **Java**. I complete
 - **Lung Cancer Prediction using CT Scan Images**  
   *A deep learning model that predicts lung cancer from CT scans, offering early detection potential.*
 
-- **StudySync**  
-  *A PHP-driven MySQL database project that helps students maintain a structured record of their daily routines and academic progress.*
-
 - **Brain Tumor Detection**  
   *Developed an intelligent model utilizing advanced deep learning algorithms to predict brain tumor likelihood with high accuracy.*
 
