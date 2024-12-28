@@ -56,12 +56,13 @@ I'm a passionate **Web Developer** with strong expertise in **Java**. I complete
 
 - **Brain Tumor Detection**  
   *Developed an intelligent model utilizing advanced deep learning algorithms to predict brain tumor likelihood with high accuracy.*
+  - **Lung Cancer Prediction using CT Scan Images**  
+  *A deep learning model that predicts lung cancer from CT scans, offering early detection potential.*
 
 - **YOLOv5-Based Bollworm Classification and Count Prediction Model**  
   *Utilizing YOLOv5, this project accurately identifies and counts bollworms in images, aiding farmers in optimizing pesticide use.*
 
-- **Lung Cancer Prediction using CT Scan Images**  
-  *A deep learning model that predicts lung cancer from CT scans, offering early detection potential.*
+
 
 
 
