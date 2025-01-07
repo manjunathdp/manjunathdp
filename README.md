@@ -46,7 +46,7 @@ I'm a passionate **Web Developer** with strong expertise in **Java**. I complete
 ### 📊 **Top Languages**
 
 <a href="https://github.com/manjunathdp" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathdp&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&hide=jupyter%20notebook,scss,less" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathdp&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&hide=jupyter%20notebook,scss,less,PureBasic" alt="Top Languages" />
 </a>
 
 
