@@ -54,6 +54,15 @@ I'm a passionate **Web Developer** with strong expertise in **Java** and **AI/ML
 </a>
 
 ---
+<br>
+
+## Trophies 🏆:
+<br>
+<p align='center'>
+<img src="https://github-profile-trophy.vercel.app/?username=manjunathdp&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&no-bg=true">
+</p>
+<hr>
+<br>
 
 ### 📂 **Highlighted Projects**
 
