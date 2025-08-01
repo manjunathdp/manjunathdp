@@ -8,7 +8,7 @@
 
 ---
 
-### 🔭 **About Me**
+<h3 align="center">🔭 <strong>About Me</strong></h3>
 
 I'm a passionate **Web Developer** with strong expertise in **Java** and **AI/ML** technologies. I recently completed my **BE in Computer Science and Engineering** at KLE Technical University (2024). My work focuses on building dynamic, responsive web applications and solving real-world problems using advanced deep learning algorithms.
 
@@ -35,36 +35,41 @@ I'm a passionate **Web Developer** with strong expertise in **Java** and **AI/ML
 
 ---
 
-### 📈 **GitHub Stats**
+<h3 align="center">📈 <strong>GitHub Stats</strong></h3>
 
+<p align='center'>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=manjunathdp&show_icons=true&count_private=true&hide_rank=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Manjunath's GitHub stats" /></a>
+</p>
 
 ---
 
-### 🔥 **GitHub Streaks**
+<h3 align="center">🔥 <strong>GitHub Streaks</strong></h3>
 
+<p align='center'>
 <a href="http://www.github.com/manjunathdp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathdp&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Manjunath's GitHub Streaks" /></a>
+</p>
 
 ---
 
-### 📊 **Top Languages**
+<h3 align="center">📊 <strong>Top Languages</strong></h3>
 
+<p align='center'>
 <a href="https://github.com/manjunathdp" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathdp&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&hide=jupyter%20notebook,scss,less,PureBasic" alt="Top Languages" />
 </a>
+</p>
 
 ---
-<br>
 
-## Trophies 🏆:
-<br>
+<h2 align="center">🏆 Trophies</h2>
+
 <p align='center'>
 <img src="https://github-profile-trophy.vercel.app/?username=manjunathdp&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&no-bg=true">
 </p>
-<hr>
-<br>
 
-### 📂 **Highlighted Projects**
+<hr>
+
+### 📂 <strong>Highlighted Projects
 
 #### [Brain Tumor Detection and Classification](https://github.com/manjunathdp/Brain-Tumor-Detection-and-Classification-Using-Deep-Learning-Models)
 - **Technologies:** TensorFlow, Keras, Spring Boot
@@ -72,7 +77,7 @@ I'm a passionate **Web Developer** with strong expertise in **Java** and **AI/ML
 - Published in Springer Nature: [DOI Link](https://doi.org/10.1007/978-981-97-6710-6_34).
 
 #### [Gemini AI Chat Bot](https://github.com/manjunathdp/Gemini-AI-chat-bot-using-spring-boot)
-- **Technologies:** React, Spring Boot, Gemini-1.5-Flash Model API
+- **Technologies:** React, Spring Boot, Gemini-1.5-Flash Model API 
 - Built a real-time interactive chatbot with advanced NLP capabilities.
 
 #### [E-commerce Application](https://github.com/manjunathdp/EcommApp-BackEnd)
