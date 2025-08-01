@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center">🔭 <strong>About Me</strong></h3>
+### 🔭 About Me
 
 I'm a passionate **Web Developer** with strong expertise in **Java** and **AI/ML** technologies. I recently completed my **BE in Computer Science and Engineering** at KLE Technical University (2024). My work focuses on building dynamic, responsive web applications and solving real-world problems using advanced deep learning algorithms.
 
